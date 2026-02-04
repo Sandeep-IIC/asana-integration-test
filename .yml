@@ -1,2 +1,0 @@
-- name: Attach pull request to Asana task
-  uses: Asana/create-app-attachment-github-action@v1.3
